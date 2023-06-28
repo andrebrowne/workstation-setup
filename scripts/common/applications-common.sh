@@ -15,6 +15,7 @@ echo "`defaults write org.shiftitapp.ShiftIt multipleActionsCycleWindowSizes YES
 echo
 brew cask install dash
 brew cask install postman
+brew cask install quicklook-json
 
 # Terminals
 
@@ -28,7 +29,6 @@ brew cask install firefox
 # Communication
 
 brew cask install slack
-brew cask install skype
 
 # Text Editors
 
